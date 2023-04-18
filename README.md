@@ -35,5 +35,5 @@ pip install -r requirements.txt
 
 - Run code: You can run a cell by pressing "Shift + Enter" or by clicking the "Run" button in the toolbar
 
-## Or
+## Or,
 python ReinsuranceOptimization.py
