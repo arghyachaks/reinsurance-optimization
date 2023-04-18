@@ -34,3 +34,6 @@ pip install -r requirements.txt
 - Open the notebook: Once you have located your notebook, click on it to open it. This will launch the notebook in a new browser tab. 
 
 - Run code: You can run a cell by pressing "Shift + Enter" or by clicking the "Run" button in the toolbar
+
+## Or
+python ReinsuranceOptimization.py
