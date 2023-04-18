@@ -5,13 +5,13 @@ As the business grew, the management of SafeGuard Insurance realized that they n
 
 In their quest to find the best reinsurance options, SafeGuard Insurance discovered that there were three different reinsurance layers available in the market, each offered by a different reinsurer. Each layer had its own price tag, coverage limit, and retention level. 
 
-The first layer, offered by Reinsurer A, cost \\$1,000 and provided coverage up to \\$50,000. SafeGuard Insurance would retain no risk for this layer. Reinsurer A had a strong credit rating, indicating a low probability of default. 
+The first layer, offered by Reinsurer A, cost $1,000 and provided coverage up to $50,000. SafeGuard Insurance would retain no risk for this layer. Reinsurer A had a strong credit rating, indicating a low probability of default. 
 
-The second layer, offered by Reinsurer B, cost \\$2,000 and provided coverage up to \\$100,000. For this layer, SafeGuard Insurance would retain $50,000 of risk. Reinsurer B had a slightly lower credit rating than Reinsurer A, indicating a slightly higher probability of default. 
+The second layer, offered by Reinsurer B, cost $2,000 and provided coverage up to $100,000. For this layer, SafeGuard Insurance would retain $50,000 of risk. Reinsurer B had a slightly lower credit rating than Reinsurer A, indicating a slightly higher probability of default. 
 
-The third layer, offered by Reinsurer C, cost \\$3,000 and provided coverage up to \\$150,000. SafeGuard Insurance would retain $150,000 of risk for this layer. Reinsurer C had the lowest credit rating among the three reinsurers, indicating a higher probability of default. 
+The third layer, offered by Reinsurer C, cost $3,000 and provided coverage up to $150,000. SafeGuard Insurance would retain $150,000 of risk for this layer. Reinsurer C had the lowest credit rating among the three reinsurers, indicating a higher probability of default. 
 
-SafeGuard Insurance wanted to transfer a total of \\$180,000 worth of risk to reinsurers while minimizing their costs. They also wanted to ensure that they purchased reinsurance from at least two different reinsurers to diversify their risk and reduce their reliance on any single reinsurer. 
+SafeGuard Insurance wanted to transfer a total of $180,000 worth of risk to reinsurers while minimizing their costs. They also wanted to ensure that they purchased reinsurance from at least two different reinsurers to diversify their risk and reduce their reliance on any single reinsurer. 
 
 To find the best combination of reinsurance layers, SafeGuard Insurance used a magical tool called the Reinsurance Optimizer. The Reinsurance Optimizer considered the costs, coverage limits, retentions, and credit ratings of each reinsurance layer, as well as the target risk transfer and diversification requirements. 
 
