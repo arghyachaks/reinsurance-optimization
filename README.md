@@ -25,12 +25,12 @@ pip install -r requirements.txt
 # Usage
 - Download and install Anaconda: Go to the Anaconda download page (https://www.anaconda.com/products/individual) and download the appropriate version for your operating system. Follow the installation instructions to install Anaconda on your computer.
 
-Open Anaconda Navigator: Once you have installed Anaconda, open the Anaconda Navigator. You can do this by clicking on the Anaconda Navigator icon in your Applications folder (on macOS) or by searching for Anaconda Navigator in the Start menu (on Windows). 
+- Open Anaconda Navigator: Once you have installed Anaconda, open the Anaconda Navigator. You can do this by clicking on the Anaconda Navigator icon in your Applications folder (on macOS) or by searching for Anaconda Navigator in the Start menu (on Windows). 
 
-Launch Jupyter Notebook: In the Anaconda Navigator, click on the Jupyter Notebook icon. This will launch Jupyter Notebook in your default web browser. 
+- Launch Jupyter Notebook: In the Anaconda Navigator, click on the Jupyter Notebook icon. This will launch Jupyter Notebook in your default web browser. 
 
-Navigate to the notebook directory: Once Jupyter Notebook has opened in your browser, you will see a file browser. Use the file browser to navigate to the directory where your notebook "ReinsuranceOptimization" is located. 
+- Navigate to the notebook directory: Once Jupyter Notebook has opened in your browser, you will see a file browser. Use the file browser to navigate to the directory where your notebook "ReinsuranceOptimization" is located. 
 
-Open the notebook: Once you have located your notebook, click on it to open it. This will launch the notebook in a new browser tab. 
+- Open the notebook: Once you have located your notebook, click on it to open it. This will launch the notebook in a new browser tab. 
 
-Run code: You can run a cell by pressing "Shift + Enter" or by clicking the "Run" button in the toolbar
+- Run code: You can run a cell by pressing "Shift + Enter" or by clicking the "Run" button in the toolbar
